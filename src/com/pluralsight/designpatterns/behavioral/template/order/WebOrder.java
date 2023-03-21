@@ -1,0 +1,29 @@
+package com.pluralsight.designpatterns.behavioral.template.order;
+
+public class WebOrder extends OrderTemplate {
+
+	@Override
+	public void doCheckout() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void doPayment() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void doReceipt() {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void doDelivery() {
+		// TODO Auto-generated method stub
+		
+	}
+
+}
