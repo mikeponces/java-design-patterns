@@ -1,4 +1,4 @@
-package com.pluralsight.designpatterns.creational.builder.factory;
+package com.pluralsight.designpatterns.creational.factory;
 
 public class Demo {
 	public static void main(String[] args) {

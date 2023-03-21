@@ -1,4 +1,4 @@
-package com.pluralsight.designpatterns.creational.builder.factory;
+package com.pluralsight.designpatterns.creational.factory;
 
 public class WebsiteFactory {
 	public static Website get(String siteType) {
